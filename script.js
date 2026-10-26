@@ -2117,7 +2117,7 @@ const ABOUT_PROOF = [
     subtitle: "IT Essentials: PC Hardware and Software",
     year: "",
     type: "CERTIFICATE",
-    src: "assets/about/cisco.jpg",
+    src: "assets/about/Cisco.jpg",
     alt: "Cisco Networking Academy IT Essentials certificate",
     verifyUrl: "",
   },
